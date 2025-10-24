@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Nguyenvanbac_231230717_de01.Models.NvbComputer>
+
+@{
+    ViewData["Title"] = "NvbIndex";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvbComName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvbComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvbComImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvbComStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvbComName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvbComPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvbComImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvbComStatus)
+            </td>
+            <td>
+                <a asp-action="NvbEdit" asp-route-id="@item.NvbComId">Edit</a> |
+                <a asp-action="NvbDetails" asp-route-id="@item.NvbComId">Details</a> |
+                <a asp-action="NvbDelete" asp-route-id="@item.NvbComId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

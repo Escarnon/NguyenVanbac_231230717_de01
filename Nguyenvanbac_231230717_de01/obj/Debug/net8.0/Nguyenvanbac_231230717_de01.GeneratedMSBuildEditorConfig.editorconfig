@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Nguyenvanbac_231230717_de01
+build_property.RootNamespace = Nguyenvanbac_231230717_de01
+build_property.ProjectDir = D:\laptrinhweb\Nguyenvanbac_231230717_de01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\laptrinhweb\Nguyenvanbac_231230717_de01
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/Home/NvbIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOdmJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/Home/NvbPrivacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOdmJQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/NvbComputers/NvbCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZiQ29tcHV0ZXJzXE52YkNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/NvbComputers/NvbDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZiQ29tcHV0ZXJzXE52YkRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/NvbComputers/NvbDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZiQ29tcHV0ZXJzXE52YkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/NvbComputers/NvbEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZiQ29tcHV0ZXJzXE52YkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/NvbComputers/NvbIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZiQ29tcHV0ZXJzXE52YkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/laptrinhweb/Nguyenvanbac_231230717_de01/Views/Shared/_NvbLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OdmJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wa4mbdfowk

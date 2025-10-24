@@ -1,0 +1,49 @@
+﻿@model Nguyenvanbac_231230717_de01.Models.NvbComputer
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>NvbComputer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NvbComId" />
+            <div class="form-group">
+                <label asp-for="NvbComName" class="control-label"></label>
+                <input asp-for="NvbComName" class="form-control" />
+                <span asp-validation-for="NvbComName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvbComPrice" class="control-label"></label>
+                <input asp-for="NvbComPrice" class="form-control" />
+                <span asp-validation-for="NvbComPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvbComImage" class="control-label"></label>
+                <input asp-for="NvbComImage" class="form-control" />
+                <span asp-validation-for="NvbComImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvbComStatus" class="control-label"></label>
+                <input asp-for="NvbComStatus" class="form-control" />
+                <span asp-validation-for="NvbComStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NvbIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
